@@ -1,7 +1,7 @@
 # FoodAI
- A skeleton for a gpt powered food assistant that runs on the terminal
- A little project that has potential but I'm not motivated to continue.
- Feel free to do whatever with it :)
+  A skeleton for a gpt powered food assistant that runs on the terminal.
+  A little project that has potential but I'm not motivated to continue.
+  Feel free to do whatever with it :)
  
  # Instructions
  * Install the required libraries via the the requirements.txt
